@@ -1,0 +1,22 @@
+{
+  "SR5SE": {
+    "Bleedout": "Bleedout",
+    "Blinded": "Blinded",
+    "BrokenGrip": "Broken Grip",
+    "Buckled": "Buckled",
+    "Deafened": "Deafened",
+    "Fatigued": "Fatigued",
+    "FullCover": "Full Cover",
+    "FullDefense": "Full Defense",
+    "HalfCover": "Half Cover",
+    "Knockdown": "Knockdown",
+    "Nauseous": "Nauseous",
+    "OneArmBandit": "One-Arm Bandit",
+    "SlowDeath": "Slow Death",
+    "Slowed": "Slowed",
+    "Stunned": "Stunned",
+    "UnableToSpeak": "Unable To Speak",
+    "WeakSide": "Weak Side",
+    "Winded": "Winded"
+  }
+}

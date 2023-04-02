@@ -1,0 +1,60 @@
+{
+  "id": "SR5-status-effects",
+  "title": "SR5 Status Effect",
+  "description": "This module overrides the default set of status effects and provides a selection of status effects for SR5.",
+  "version": "#{VERSION}#",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "authors": [
+    {
+      "name": "Shourn"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "shadowrun5e",
+        "type": "system"
+      }
+    ],
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {
+          "minimum": "1.0.0.0",
+          "verified": "1.12.6.0"
+        }
+      }
+    ]
+  },
+  "system": ["shadowrun5e"],
+  "esmodules": [
+    "scripts/sr5se.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "languages/de.json"
+    }
+  ],
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "media": [
+    {
+      "type": "icon",
+      "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+    }
+  ]
+}

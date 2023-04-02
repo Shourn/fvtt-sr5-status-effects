@@ -1,0 +1,22 @@
+{
+  "SR5SE": {
+    "Bleedout": "Verbluten",
+    "Blinded": "Geblendet",
+    "BrokenGrip": "Gebrochener Griff",
+    "Buckled": "Gekrümmt",
+    "Deafened": "Ertaubt",
+    "Fatigued": "Erschöpft",
+    "Knockdown": "Niederschlag",
+    "Nauseous": "Übelkeit",
+    "OneArmBandit": "Einarmiger Bandit",
+    "SlowDeath": "Langsamer Tod",
+    "Slowed": "Verlangsamt",
+    "Stunned": "Betäubt",
+    "UnableToSpeak": "Verstummt",
+    "WeakSide": "Schwache Seite",
+    "Winded": "Außer Atem",
+    "FullDefense": "Volle Abwehr",
+    "FullCover": "Volle Deckung",
+    "HalfCover": "Halbe Deckung"
+  }
+}

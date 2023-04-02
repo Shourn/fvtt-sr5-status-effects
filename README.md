@@ -1,0 +1,1 @@
+This module aims to add user-friendly management of status effects to the SR5 system for Foundry VTT. 
